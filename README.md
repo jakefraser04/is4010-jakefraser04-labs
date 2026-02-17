@@ -21,7 +21,7 @@ Tests automatically run on every push to ensure code quality and correctness.
 
 ## 📂 Repository Structure
 
-is4010-[your-username]-course/
+is4010-jakefraser04-course/
 ├── .github/
 │   └── workflows/
 │       └── week03.yml        # GitHub Actions workflow for automated testing
