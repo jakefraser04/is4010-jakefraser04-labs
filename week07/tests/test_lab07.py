@@ -1,7 +1,4 @@
 # test_lab07.py
-import sys
-import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import json
 from lab07_contact_book import save_contacts_to_json, load_contacts_from_json
 

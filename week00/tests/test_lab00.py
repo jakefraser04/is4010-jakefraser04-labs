@@ -1,8 +1,5 @@
 # test_lab00.py
 # Setup verification tests - intentionally simple
-import sys
-import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from lab00 import hello_world, add_numbers
 
