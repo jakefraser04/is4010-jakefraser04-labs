@@ -1,4 +1,7 @@
 # test_lab04.py
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import pytest
 from lab04 import find_common_elements, find_user_by_name, get_list_of_even_numbers
 

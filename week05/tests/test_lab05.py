@@ -1,4 +1,7 @@
 # test_lab05.py
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import pytest
 from lab05 import calculate_average_age, get_active_user_emails
 
