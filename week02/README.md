@@ -16,7 +16,7 @@ This week introduces AI-powered development tools and teaches you how to use the
 
 1. **Read the lab instructions**: [lab02.md](./lab02.md)
 2. **Work through the notebook**: Practice AI-assisted coding
-3. **Write your solution**: Create `lab02.py` and `lab02_prompts.md`
+3. **Write your solution**: Create `lab02.py` and `week02_prompts.md`
 4. **Commit and push**: Submit your work to GitHub
 
 ```bash
@@ -39,7 +39,7 @@ is4010-[your-username]-course/
 │   ├── lab02.md              # Lab instructions
 │   ├── notebook.ipynb        # Interactive exercises (if available)
 │   ├── lab02.py              # Your Python solution ✅
-│   └── lab02_prompts.md      # Your AI prompts and reflections ✅
+│   └── week02_prompts.md      # Your AI prompts and reflections ✅
 └── README.md
 ```
 
