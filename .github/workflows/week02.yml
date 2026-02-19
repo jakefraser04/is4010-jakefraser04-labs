@@ -1,5 +1,6 @@
 name: Week 02 - AI-Assisted Development
 on:
+  workflow_dispatch:  # This allows you to run it manually for testing!
   push:
     paths:
       - 'week02/**'
@@ -25,9 +26,10 @@ jobs:
             echo "✗ lab02.py not found"
             exit 1
           fi
-          if [ -f week02/lab02_prompts.md ]; then
-            echo "✓ lab02_prompts.md found"
+          # Updated to match your actual filename: week02_prompts.md
+          if [ -f week02/week02_prompts.md ]; then
+            echo "✓ week02_prompts.md found"
           else
-            echo "✗ lab02_prompts.md not found"
+            echo "✗ week02_prompts.md not found"
             exit 1
           fi
