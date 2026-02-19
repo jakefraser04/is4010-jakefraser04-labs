@@ -5,8 +5,6 @@
 **Institution**: University of Cincinnati, Lindner College of Business
 **Instructor**: Brandon M. Greenwell
 
-![CI/CD Pipeline](https://github.com/jakefraser04/is4010-jakefraser04-labs/actions/workflows/main.yml/badge.svg)
-
 ---
 This repository contains all lab assignments for **IS4010: AI-Enhanced Application Development** at the University of Cincinnati's Lindner College of Business.
 
