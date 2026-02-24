@@ -1,3 +1,4 @@
+# Adding this line of code to alter commit message for week05
 users = [
     {"name": "alice", "age": 30, "is_active": True, "email": "alice@example.com"},
     {"name": "bob", "age": 25, "is_active": False},
