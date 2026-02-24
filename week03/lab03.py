@@ -1,3 +1,4 @@
+# Adding this line to change commit message for week03
 def generate_mad_lib(adjective, noun, verb):
     """
     Generates a short story using the provided words.
