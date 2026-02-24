@@ -1,6 +1,6 @@
 # test_lab07.py
 import json
-from lab07_contact_book import save_contacts_to_json, load_contacts_from_json
+from week07.lab07 import save_contacts_to_json, load_contacts_from_json
 
 
 # Test the round trip of saving and loading
